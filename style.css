@@ -1,0 +1,36 @@
+li{
+	font-size: 20px;
+	color: white;
+}
+h1, p{
+
+	font-family: Georgia;
+}
+p{
+	font-size: 30px;
+	color: white;
+}
+
+body{
+	background-color: #BB2607;
+}
+
+.invite {
+display: flex;
+justify-content: center;
+}
+
+.guests{
+		display: flex;
+		justify-content: center;
+	
+}
+.confirmed {
+	display: flex;
+	justify-content: center;
+}
+
+.confirmed2{
+	display: flex;
+	justify-content: center;
+}
